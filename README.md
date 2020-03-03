@@ -36,7 +36,7 @@ If you would like to fork this repository to track your own progress please find
 
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
-1 | MITx | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 2018/01 | [edX Progress Page](https://github.com/t-miller/OSSU-Computer-Science-Coursework/blob/master/Proofs/1_6.00.1x_Proof.PNG) | [Private Coursework](https://github.com/t-miller/6.00.1x-intro-to-computer-science)
+1 | MITx | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) - ##Done | 2018/01 | [edX Progress Page](https://github.com/t-miller/OSSU-Computer-Science-Coursework/blob/master/Proofs/1_6.00.1x_Proof.PNG) | [Private Coursework](https://github.com/t-miller/6.00.1x-intro-to-computer-science)
 
 ## Core CS
 
